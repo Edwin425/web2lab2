@@ -1,4 +1,4 @@
-# web1lab1
+# web2lab2
 ## Belajar membuat HTML dengan menggunkan CSS Dasar
 
 ### menambahkan CSS pada HTML
