@@ -4,7 +4,7 @@
 ### menambahkan CSS pada HTML
 pengertian CSS '<p>'
 CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
-![Gambar](screenshot/labs2css.png)
-![Gambar](screenshot/hello world.png)
+![Gambar](screenshot/labs.png)
+![Gambar](screenshot/hello.png)
 ![Gambar](screenshot/style.png)
-![Gambar](screenshot/hello worldd.png)
+![Gambar](screenshot/world.png)
